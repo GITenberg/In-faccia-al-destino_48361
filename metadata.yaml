@@ -1,4 +1,8 @@
 _repo: In-faccia-al-destino_48361
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48361-h/images/cover.jpg
 creator:
   author:
     agent_name: Albertazzi, Adolfo
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39080
     wikipedia: http://it.wikipedia.org/wiki/Adolfo_Albertazzi
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48361#In-faccia-al-destino
 gutenberg_bookshelf: IT Romanzi
 gutenberg_issued: '2015-02-25'
 gutenberg_type: Text
